@@ -22,7 +22,8 @@ require "gutenberg"
 
 ### Get text from id
 
-```text = Gutenberg::Client.new
+```crystal
+text = Gutenberg::Client.new
 text.text_from_id
 ```
 
