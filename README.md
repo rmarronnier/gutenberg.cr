@@ -8,7 +8,7 @@ Simple https://gutenberg.justamouse.com/ client
 
    ```yaml
    dependencies:
-     poemist:
+     gutenberg:
        github: rmarronnier/gutenberg.cr
    ```
 
